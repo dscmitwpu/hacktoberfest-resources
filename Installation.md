@@ -23,8 +23,8 @@ If you’re on a Debian-based distribution, such as Ubuntu, download .deb from [
 Install it using 
 ```bash
 sudo dpkg -i <filename>.deb
-(Example: sudo dpkg -i gh_1.1.0_linux_amd64.deb , latest one at the time of writing)
 ```
+(Example: sudo dpkg -i gh_1.1.0_linux_amd64.deb , latest one at the time of writing)
 
 ## On MacOS
 
